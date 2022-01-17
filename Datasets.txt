@@ -1,0 +1,5 @@
+MUSIC RECOMMENDATIONS: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
+STOCK MARKET:https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+IRIS:http://archive.ics.uci.edu/ml/datasets/Iris
